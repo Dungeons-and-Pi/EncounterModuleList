@@ -1,7 +1,7 @@
 # EncounterModuleList
 List of the all the EncounterPlus Modules that I can find
 
-## Open Source
+## Open Source (GitHub)
 * [encounterplus/you-wished-for-adventure](https://github.com/encounterplus/you-wished-for-adventure/releases)
 * [encounterplus/Harvester-Adventure](https://github.com/encounterplus/Harvester-Adventure/releases/)
 * [encounterplus/additional-content](https://github.com/encounterplus/additional-content/)
@@ -11,9 +11,9 @@ List of the all the EncounterPlus Modules that I can find
 * [TheGoblinExplorer/encounter-plus-endless-dungon-intro-pack](https://github.com/TheGoblinExplorer/encounter-plus-endless-dungon-intro-pack/releases)
 
 ## Free
-* [milbysmaps.com](https://www.milbysmaps.com/2020/10/26/maps-for-encounterplus/)
-* [Temple of Baaz](https://www.patreon.com/posts/44921512) created by [Tales from the Post](https://www.patreon.com/talesfromthepost)
-* [A Dungeon Master’s Guide to Neverwinter](https://www.inchoatethoughts.com/dungeon-masters-guide-to-neverwinter) created by [Jacob Johnston](https://www.inchoatethoughts.com/author/jjohnston)
+* [Maps for EncounterPlus (milbysmaps.com)](https://www.milbysmaps.com/2020/10/26/maps-for-encounterplus/) created by Matt C. and mattmilby
+* [Temple of Baaz (patreon.com)](https://www.patreon.com/posts/44921512) created by [Tales from the Post](https://www.patreon.com/talesfromthepost)
+* [A Dungeon Master’s Guide to Neverwinter (inchoatethoughts.com)](https://www.inchoatethoughts.com/dungeon-masters-guide-to-neverwinter) created by [Jacob Johnston](https://www.inchoatethoughts.com/author/jjohnston)
 
 ## Paid
 * I haven't found any yet.
