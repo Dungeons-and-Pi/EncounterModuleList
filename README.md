@@ -12,7 +12,8 @@ List of the all the EncounterPlus Modules that I can find
 
 ## Free
 * [milbysmaps.com](https://www.milbysmaps.com/2020/10/26/maps-for-encounterplus/)
-* [Temple of Baaz](https://www.patreon.com/posts/44921512) by [Tales from the Post](https://www.patreon.com/talesfromthepost)
+* [Temple of Baaz](https://www.patreon.com/posts/44921512) created by [Tales from the Post](https://www.patreon.com/talesfromthepost)
+* [A Dungeon Master’s Guide to Neverwinter](https://www.inchoatethoughts.com/dungeon-masters-guide-to-neverwinter) created by [Jacob Johnston](https://www.inchoatethoughts.com/author/jjohnston)
 
 ## Paid
 * I haven't found any yet.
