@@ -13,3 +13,6 @@ List of the all the EncounterPlus Modules that I can find
 ## Free
 * [milbysmaps.com](https://www.milbysmaps.com/2020/10/26/maps-for-encounterplus/)
 * [Temple of Baaz](https://www.patreon.com/posts/44921512) by [Tales from the Post](https://www.patreon.com/talesfromthepost)
+
+## Paid
+* I haven't found any yet.
