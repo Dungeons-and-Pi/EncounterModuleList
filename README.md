@@ -9,11 +9,12 @@ List of the all the EncounterPlus Modules that I can find
 * [MrFarland/DM-Operations-Center](https://github.com/MrFarland/DM-Operations-Center/releases)
 * [MrFarland/Encyclopedia-Exandria](https://github.com/MrFarland/Encyclopedia-Exandria)
 * [TheGoblinExplorer/encounter-plus-endless-dungon-intro-pack](https://github.com/TheGoblinExplorer/encounter-plus-endless-dungon-intro-pack/releases)
+* [jacobjohnston/neverwinterguide](https://github.com/jacobjohnston/neverwinterguide/releases)
 
 ## Free
 * [Maps for EncounterPlus (milbysmaps.com)](https://www.milbysmaps.com/2020/10/26/maps-for-encounterplus/) created by Matt C. and mattmilby
 * [Temple of Baaz (patreon.com)](https://www.patreon.com/posts/44921512) created by [Tales from the Post](https://www.patreon.com/talesfromthepost)
-* [A Dungeon Master’s Guide to Neverwinter (inchoatethoughts.com)](https://www.inchoatethoughts.com/dungeon-masters-guide-to-neverwinter) created by [Jacob Johnston](https://www.inchoatethoughts.com/author/jjohnston)
+* [the Pirate Tavern (pateron.com)](https://www.patreon.com/posts/free-taster-58691012) created by [Cze and Peku](https://www.patreon.com/czepeku)
 
 ## Paid
 * I haven't found any yet.
